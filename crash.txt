@@ -1,0 +1,25 @@
+Exception: Access Violation (code 0xc0000005) at address 004F3789 in thread 44DC
+Module: LawnProject.exe
+Logical Address: 0001:002D2789
+
+001CF1E8 004F3789 TodPickFromWeightedArray+19
+Params: 001CF268 00000000 0022137F 0022137F
+
+StackWalk failed (error 299)
+
+EAX:00000000 EBX:00DB2000 ECX:001CF268 EDX:001CF418 ESI:0022137F EDI:0022137F
+EIP:004F3789 ESP:001CF19C  EBP:001CF1E8
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00010206
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 10.0.22621.1
+DSound Ver: 10.0.22621.1
+
+Product: PlantsVsZombies
+Version: 1.0.0.1
+Time Loaded: 00:08:36
+Fullscreen: No
+Primary ThreadId: 44DC
+Times Played: 0
+
